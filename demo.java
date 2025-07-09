@@ -6,4 +6,9 @@ public class demo {
     void dev2(){
         System.out.println(x:"I am dve2");
     } 
+
+}
+    void dev1(){
+        System.out.println(x:"I am dev1");
+    }
 }
