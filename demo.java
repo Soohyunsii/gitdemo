@@ -1,6 +1,6 @@
 public class demo {
     void check()
     {
-        System.out.println(x:"Version 1");
+        System.out.println(x:"Version 2");
 }  
 }
